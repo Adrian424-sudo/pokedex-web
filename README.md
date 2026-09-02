@@ -3,7 +3,7 @@
 **Estudiantes:** Bonilla Navarrete Andre Mike y Rangel Rocha Oscar Adrián  
 **Asignación:** Pokédex Web con consumo de API e Inteligencia Artificial  
 **Tecnología Asignada:** JavaScript sin frameworks (Vanilla JS)  
-**Diseño de Interfaz:** [Enlace a Google Stitch o captura del prototipo]
+**Diseño de Interfaz:** https://stitch.withgoogle.com/projects/2966036083275660660
 
 ---
 
